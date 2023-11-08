@@ -1,0 +1,41 @@
+.city1 {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    object-fit: cover;
+    transition: flex 0.7s ease-in;
+}
+.city2 {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    object-fit: cover;
+    transition: flex 0.7s ease-in;
+}
+
+
+.city3 {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    object-fit: cover;    
+    transition: flex 0.7s ease-in;
+}
+
+.city4 {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    object-fit: cover;    
+    transition: flex 0.7s ease-in;
+
+}
+
+.city5 {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    object-fit: cover;
+    transition: flex 0.7s ease-in;
+    
+}
